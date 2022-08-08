@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Palindrome_LinkedList/1.0.0": {
+        "runtime": {
+          "Palindrome_LinkedList.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Palindrome_LinkedList/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

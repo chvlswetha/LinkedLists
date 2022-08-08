@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "K from Last_Linkedlist/1.0.0": {
+        "runtime": {
+          "K from Last_Linkedlist.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "K from Last_Linkedlist/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

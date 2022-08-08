@@ -1,0 +1,14 @@
+C:\KalAcademy\DSA\LinkedLists\Merege_sortedLists\Merege_sortedLists\bin\Debug\netcoreapp3.1\Merege_sortedLists.exe
+C:\KalAcademy\DSA\LinkedLists\Merege_sortedLists\Merege_sortedLists\bin\Debug\netcoreapp3.1\Merege_sortedLists.deps.json
+C:\KalAcademy\DSA\LinkedLists\Merege_sortedLists\Merege_sortedLists\bin\Debug\netcoreapp3.1\Merege_sortedLists.runtimeconfig.json
+C:\KalAcademy\DSA\LinkedLists\Merege_sortedLists\Merege_sortedLists\bin\Debug\netcoreapp3.1\Merege_sortedLists.runtimeconfig.dev.json
+C:\KalAcademy\DSA\LinkedLists\Merege_sortedLists\Merege_sortedLists\bin\Debug\netcoreapp3.1\Merege_sortedLists.dll
+C:\KalAcademy\DSA\LinkedLists\Merege_sortedLists\Merege_sortedLists\bin\Debug\netcoreapp3.1\Merege_sortedLists.pdb
+C:\KalAcademy\DSA\LinkedLists\Merege_sortedLists\Merege_sortedLists\obj\Debug\netcoreapp3.1\Merege_sortedLists.csproj.AssemblyReference.cache
+C:\KalAcademy\DSA\LinkedLists\Merege_sortedLists\Merege_sortedLists\obj\Debug\netcoreapp3.1\Merege_sortedLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\KalAcademy\DSA\LinkedLists\Merege_sortedLists\Merege_sortedLists\obj\Debug\netcoreapp3.1\Merege_sortedLists.AssemblyInfoInputs.cache
+C:\KalAcademy\DSA\LinkedLists\Merege_sortedLists\Merege_sortedLists\obj\Debug\netcoreapp3.1\Merege_sortedLists.AssemblyInfo.cs
+C:\KalAcademy\DSA\LinkedLists\Merege_sortedLists\Merege_sortedLists\obj\Debug\netcoreapp3.1\Merege_sortedLists.csproj.CoreCompileInputs.cache
+C:\KalAcademy\DSA\LinkedLists\Merege_sortedLists\Merege_sortedLists\obj\Debug\netcoreapp3.1\Merege_sortedLists.dll
+C:\KalAcademy\DSA\LinkedLists\Merege_sortedLists\Merege_sortedLists\obj\Debug\netcoreapp3.1\Merege_sortedLists.pdb
+C:\KalAcademy\DSA\LinkedLists\Merege_sortedLists\Merege_sortedLists\obj\Debug\netcoreapp3.1\Merege_sortedLists.genruntimeconfig.cache

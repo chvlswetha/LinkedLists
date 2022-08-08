@@ -1,0 +1,14 @@
+C:\KalAcademy\DSA\LinkedLists\DeleteNode_Linkedlist\DeleteNode_Linkedlist\bin\Debug\netcoreapp3.1\DeleteNode_Linkedlist.exe
+C:\KalAcademy\DSA\LinkedLists\DeleteNode_Linkedlist\DeleteNode_Linkedlist\bin\Debug\netcoreapp3.1\DeleteNode_Linkedlist.deps.json
+C:\KalAcademy\DSA\LinkedLists\DeleteNode_Linkedlist\DeleteNode_Linkedlist\bin\Debug\netcoreapp3.1\DeleteNode_Linkedlist.runtimeconfig.json
+C:\KalAcademy\DSA\LinkedLists\DeleteNode_Linkedlist\DeleteNode_Linkedlist\bin\Debug\netcoreapp3.1\DeleteNode_Linkedlist.runtimeconfig.dev.json
+C:\KalAcademy\DSA\LinkedLists\DeleteNode_Linkedlist\DeleteNode_Linkedlist\bin\Debug\netcoreapp3.1\DeleteNode_Linkedlist.dll
+C:\KalAcademy\DSA\LinkedLists\DeleteNode_Linkedlist\DeleteNode_Linkedlist\bin\Debug\netcoreapp3.1\DeleteNode_Linkedlist.pdb
+C:\KalAcademy\DSA\LinkedLists\DeleteNode_Linkedlist\DeleteNode_Linkedlist\obj\Debug\netcoreapp3.1\DeleteNode_Linkedlist.csproj.AssemblyReference.cache
+C:\KalAcademy\DSA\LinkedLists\DeleteNode_Linkedlist\DeleteNode_Linkedlist\obj\Debug\netcoreapp3.1\DeleteNode_Linkedlist.GeneratedMSBuildEditorConfig.editorconfig
+C:\KalAcademy\DSA\LinkedLists\DeleteNode_Linkedlist\DeleteNode_Linkedlist\obj\Debug\netcoreapp3.1\DeleteNode_Linkedlist.AssemblyInfoInputs.cache
+C:\KalAcademy\DSA\LinkedLists\DeleteNode_Linkedlist\DeleteNode_Linkedlist\obj\Debug\netcoreapp3.1\DeleteNode_Linkedlist.AssemblyInfo.cs
+C:\KalAcademy\DSA\LinkedLists\DeleteNode_Linkedlist\DeleteNode_Linkedlist\obj\Debug\netcoreapp3.1\DeleteNode_Linkedlist.csproj.CoreCompileInputs.cache
+C:\KalAcademy\DSA\LinkedLists\DeleteNode_Linkedlist\DeleteNode_Linkedlist\obj\Debug\netcoreapp3.1\DeleteNode_Linkedlist.dll
+C:\KalAcademy\DSA\LinkedLists\DeleteNode_Linkedlist\DeleteNode_Linkedlist\obj\Debug\netcoreapp3.1\DeleteNode_Linkedlist.pdb
+C:\KalAcademy\DSA\LinkedLists\DeleteNode_Linkedlist\DeleteNode_Linkedlist\obj\Debug\netcoreapp3.1\DeleteNode_Linkedlist.genruntimeconfig.cache

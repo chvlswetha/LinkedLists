@@ -1,0 +1,14 @@
+C:\KalAcademy\DSA\LinkedLists\BST_SortedLinkedlist\BST_SortedLinkedlist\bin\Debug\netcoreapp3.1\BST_SortedLinkedlist.exe
+C:\KalAcademy\DSA\LinkedLists\BST_SortedLinkedlist\BST_SortedLinkedlist\bin\Debug\netcoreapp3.1\BST_SortedLinkedlist.deps.json
+C:\KalAcademy\DSA\LinkedLists\BST_SortedLinkedlist\BST_SortedLinkedlist\bin\Debug\netcoreapp3.1\BST_SortedLinkedlist.runtimeconfig.json
+C:\KalAcademy\DSA\LinkedLists\BST_SortedLinkedlist\BST_SortedLinkedlist\bin\Debug\netcoreapp3.1\BST_SortedLinkedlist.runtimeconfig.dev.json
+C:\KalAcademy\DSA\LinkedLists\BST_SortedLinkedlist\BST_SortedLinkedlist\bin\Debug\netcoreapp3.1\BST_SortedLinkedlist.dll
+C:\KalAcademy\DSA\LinkedLists\BST_SortedLinkedlist\BST_SortedLinkedlist\bin\Debug\netcoreapp3.1\BST_SortedLinkedlist.pdb
+C:\KalAcademy\DSA\LinkedLists\BST_SortedLinkedlist\BST_SortedLinkedlist\obj\Debug\netcoreapp3.1\BST_SortedLinkedlist.csproj.AssemblyReference.cache
+C:\KalAcademy\DSA\LinkedLists\BST_SortedLinkedlist\BST_SortedLinkedlist\obj\Debug\netcoreapp3.1\BST_SortedLinkedlist.GeneratedMSBuildEditorConfig.editorconfig
+C:\KalAcademy\DSA\LinkedLists\BST_SortedLinkedlist\BST_SortedLinkedlist\obj\Debug\netcoreapp3.1\BST_SortedLinkedlist.AssemblyInfoInputs.cache
+C:\KalAcademy\DSA\LinkedLists\BST_SortedLinkedlist\BST_SortedLinkedlist\obj\Debug\netcoreapp3.1\BST_SortedLinkedlist.AssemblyInfo.cs
+C:\KalAcademy\DSA\LinkedLists\BST_SortedLinkedlist\BST_SortedLinkedlist\obj\Debug\netcoreapp3.1\BST_SortedLinkedlist.csproj.CoreCompileInputs.cache
+C:\KalAcademy\DSA\LinkedLists\BST_SortedLinkedlist\BST_SortedLinkedlist\obj\Debug\netcoreapp3.1\BST_SortedLinkedlist.dll
+C:\KalAcademy\DSA\LinkedLists\BST_SortedLinkedlist\BST_SortedLinkedlist\obj\Debug\netcoreapp3.1\BST_SortedLinkedlist.pdb
+C:\KalAcademy\DSA\LinkedLists\BST_SortedLinkedlist\BST_SortedLinkedlist\obj\Debug\netcoreapp3.1\BST_SortedLinkedlist.genruntimeconfig.cache

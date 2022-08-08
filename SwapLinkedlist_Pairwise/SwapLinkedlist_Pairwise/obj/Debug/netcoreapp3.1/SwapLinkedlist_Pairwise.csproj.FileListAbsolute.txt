@@ -1,0 +1,14 @@
+C:\KalAcademy\DSA\LinkedLists\SwapLinkedlist_Pairwise\SwapLinkedlist_Pairwise\obj\Debug\netcoreapp3.1\SwapLinkedlist_Pairwise.csproj.AssemblyReference.cache
+C:\KalAcademy\DSA\LinkedLists\SwapLinkedlist_Pairwise\SwapLinkedlist_Pairwise\obj\Debug\netcoreapp3.1\SwapLinkedlist_Pairwise.GeneratedMSBuildEditorConfig.editorconfig
+C:\KalAcademy\DSA\LinkedLists\SwapLinkedlist_Pairwise\SwapLinkedlist_Pairwise\obj\Debug\netcoreapp3.1\SwapLinkedlist_Pairwise.AssemblyInfoInputs.cache
+C:\KalAcademy\DSA\LinkedLists\SwapLinkedlist_Pairwise\SwapLinkedlist_Pairwise\obj\Debug\netcoreapp3.1\SwapLinkedlist_Pairwise.AssemblyInfo.cs
+C:\KalAcademy\DSA\LinkedLists\SwapLinkedlist_Pairwise\SwapLinkedlist_Pairwise\obj\Debug\netcoreapp3.1\SwapLinkedlist_Pairwise.csproj.CoreCompileInputs.cache
+C:\KalAcademy\DSA\LinkedLists\SwapLinkedlist_Pairwise\SwapLinkedlist_Pairwise\bin\Debug\netcoreapp3.1\SwapLinkedlist_Pairwise.exe
+C:\KalAcademy\DSA\LinkedLists\SwapLinkedlist_Pairwise\SwapLinkedlist_Pairwise\bin\Debug\netcoreapp3.1\SwapLinkedlist_Pairwise.deps.json
+C:\KalAcademy\DSA\LinkedLists\SwapLinkedlist_Pairwise\SwapLinkedlist_Pairwise\bin\Debug\netcoreapp3.1\SwapLinkedlist_Pairwise.runtimeconfig.json
+C:\KalAcademy\DSA\LinkedLists\SwapLinkedlist_Pairwise\SwapLinkedlist_Pairwise\bin\Debug\netcoreapp3.1\SwapLinkedlist_Pairwise.runtimeconfig.dev.json
+C:\KalAcademy\DSA\LinkedLists\SwapLinkedlist_Pairwise\SwapLinkedlist_Pairwise\bin\Debug\netcoreapp3.1\SwapLinkedlist_Pairwise.dll
+C:\KalAcademy\DSA\LinkedLists\SwapLinkedlist_Pairwise\SwapLinkedlist_Pairwise\bin\Debug\netcoreapp3.1\SwapLinkedlist_Pairwise.pdb
+C:\KalAcademy\DSA\LinkedLists\SwapLinkedlist_Pairwise\SwapLinkedlist_Pairwise\obj\Debug\netcoreapp3.1\SwapLinkedlist_Pairwise.dll
+C:\KalAcademy\DSA\LinkedLists\SwapLinkedlist_Pairwise\SwapLinkedlist_Pairwise\obj\Debug\netcoreapp3.1\SwapLinkedlist_Pairwise.pdb
+C:\KalAcademy\DSA\LinkedLists\SwapLinkedlist_Pairwise\SwapLinkedlist_Pairwise\obj\Debug\netcoreapp3.1\SwapLinkedlist_Pairwise.genruntimeconfig.cache

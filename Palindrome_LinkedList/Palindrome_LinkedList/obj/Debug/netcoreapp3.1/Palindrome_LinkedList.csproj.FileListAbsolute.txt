@@ -1,0 +1,14 @@
+C:\KalAcademy\DSA\LinkedLists\Palindrome_LinkedList\Palindrome_LinkedList\bin\Debug\netcoreapp3.1\Palindrome_LinkedList.exe
+C:\KalAcademy\DSA\LinkedLists\Palindrome_LinkedList\Palindrome_LinkedList\bin\Debug\netcoreapp3.1\Palindrome_LinkedList.deps.json
+C:\KalAcademy\DSA\LinkedLists\Palindrome_LinkedList\Palindrome_LinkedList\bin\Debug\netcoreapp3.1\Palindrome_LinkedList.runtimeconfig.json
+C:\KalAcademy\DSA\LinkedLists\Palindrome_LinkedList\Palindrome_LinkedList\bin\Debug\netcoreapp3.1\Palindrome_LinkedList.runtimeconfig.dev.json
+C:\KalAcademy\DSA\LinkedLists\Palindrome_LinkedList\Palindrome_LinkedList\bin\Debug\netcoreapp3.1\Palindrome_LinkedList.dll
+C:\KalAcademy\DSA\LinkedLists\Palindrome_LinkedList\Palindrome_LinkedList\bin\Debug\netcoreapp3.1\Palindrome_LinkedList.pdb
+C:\KalAcademy\DSA\LinkedLists\Palindrome_LinkedList\Palindrome_LinkedList\obj\Debug\netcoreapp3.1\Palindrome_LinkedList.csproj.AssemblyReference.cache
+C:\KalAcademy\DSA\LinkedLists\Palindrome_LinkedList\Palindrome_LinkedList\obj\Debug\netcoreapp3.1\Palindrome_LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\KalAcademy\DSA\LinkedLists\Palindrome_LinkedList\Palindrome_LinkedList\obj\Debug\netcoreapp3.1\Palindrome_LinkedList.AssemblyInfoInputs.cache
+C:\KalAcademy\DSA\LinkedLists\Palindrome_LinkedList\Palindrome_LinkedList\obj\Debug\netcoreapp3.1\Palindrome_LinkedList.AssemblyInfo.cs
+C:\KalAcademy\DSA\LinkedLists\Palindrome_LinkedList\Palindrome_LinkedList\obj\Debug\netcoreapp3.1\Palindrome_LinkedList.csproj.CoreCompileInputs.cache
+C:\KalAcademy\DSA\LinkedLists\Palindrome_LinkedList\Palindrome_LinkedList\obj\Debug\netcoreapp3.1\Palindrome_LinkedList.dll
+C:\KalAcademy\DSA\LinkedLists\Palindrome_LinkedList\Palindrome_LinkedList\obj\Debug\netcoreapp3.1\Palindrome_LinkedList.pdb
+C:\KalAcademy\DSA\LinkedLists\Palindrome_LinkedList\Palindrome_LinkedList\obj\Debug\netcoreapp3.1\Palindrome_LinkedList.genruntimeconfig.cache

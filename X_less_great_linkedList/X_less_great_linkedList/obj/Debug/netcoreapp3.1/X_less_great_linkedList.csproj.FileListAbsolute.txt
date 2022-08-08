@@ -1,0 +1,14 @@
+C:\KalAcademy\DSA\LinkedLists\X_less_great_linkedList\X_less_great_linkedList\bin\Debug\netcoreapp3.1\X_less_great_linkedList.exe
+C:\KalAcademy\DSA\LinkedLists\X_less_great_linkedList\X_less_great_linkedList\bin\Debug\netcoreapp3.1\X_less_great_linkedList.deps.json
+C:\KalAcademy\DSA\LinkedLists\X_less_great_linkedList\X_less_great_linkedList\bin\Debug\netcoreapp3.1\X_less_great_linkedList.runtimeconfig.json
+C:\KalAcademy\DSA\LinkedLists\X_less_great_linkedList\X_less_great_linkedList\bin\Debug\netcoreapp3.1\X_less_great_linkedList.runtimeconfig.dev.json
+C:\KalAcademy\DSA\LinkedLists\X_less_great_linkedList\X_less_great_linkedList\bin\Debug\netcoreapp3.1\X_less_great_linkedList.dll
+C:\KalAcademy\DSA\LinkedLists\X_less_great_linkedList\X_less_great_linkedList\bin\Debug\netcoreapp3.1\X_less_great_linkedList.pdb
+C:\KalAcademy\DSA\LinkedLists\X_less_great_linkedList\X_less_great_linkedList\obj\Debug\netcoreapp3.1\X_less_great_linkedList.csproj.AssemblyReference.cache
+C:\KalAcademy\DSA\LinkedLists\X_less_great_linkedList\X_less_great_linkedList\obj\Debug\netcoreapp3.1\X_less_great_linkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\KalAcademy\DSA\LinkedLists\X_less_great_linkedList\X_less_great_linkedList\obj\Debug\netcoreapp3.1\X_less_great_linkedList.AssemblyInfoInputs.cache
+C:\KalAcademy\DSA\LinkedLists\X_less_great_linkedList\X_less_great_linkedList\obj\Debug\netcoreapp3.1\X_less_great_linkedList.AssemblyInfo.cs
+C:\KalAcademy\DSA\LinkedLists\X_less_great_linkedList\X_less_great_linkedList\obj\Debug\netcoreapp3.1\X_less_great_linkedList.csproj.CoreCompileInputs.cache
+C:\KalAcademy\DSA\LinkedLists\X_less_great_linkedList\X_less_great_linkedList\obj\Debug\netcoreapp3.1\X_less_great_linkedList.dll
+C:\KalAcademy\DSA\LinkedLists\X_less_great_linkedList\X_less_great_linkedList\obj\Debug\netcoreapp3.1\X_less_great_linkedList.pdb
+C:\KalAcademy\DSA\LinkedLists\X_less_great_linkedList\X_less_great_linkedList\obj\Debug\netcoreapp3.1\X_less_great_linkedList.genruntimeconfig.cache

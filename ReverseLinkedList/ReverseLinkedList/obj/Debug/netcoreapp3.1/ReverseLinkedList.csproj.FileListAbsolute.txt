@@ -1,0 +1,14 @@
+C:\KalAcademy\DSA\LinkedLists\ReverseLinkedList\ReverseLinkedList\bin\Debug\netcoreapp3.1\ReverseLinkedList.exe
+C:\KalAcademy\DSA\LinkedLists\ReverseLinkedList\ReverseLinkedList\bin\Debug\netcoreapp3.1\ReverseLinkedList.deps.json
+C:\KalAcademy\DSA\LinkedLists\ReverseLinkedList\ReverseLinkedList\bin\Debug\netcoreapp3.1\ReverseLinkedList.runtimeconfig.json
+C:\KalAcademy\DSA\LinkedLists\ReverseLinkedList\ReverseLinkedList\bin\Debug\netcoreapp3.1\ReverseLinkedList.runtimeconfig.dev.json
+C:\KalAcademy\DSA\LinkedLists\ReverseLinkedList\ReverseLinkedList\bin\Debug\netcoreapp3.1\ReverseLinkedList.dll
+C:\KalAcademy\DSA\LinkedLists\ReverseLinkedList\ReverseLinkedList\bin\Debug\netcoreapp3.1\ReverseLinkedList.pdb
+C:\KalAcademy\DSA\LinkedLists\ReverseLinkedList\ReverseLinkedList\obj\Debug\netcoreapp3.1\ReverseLinkedList.csproj.AssemblyReference.cache
+C:\KalAcademy\DSA\LinkedLists\ReverseLinkedList\ReverseLinkedList\obj\Debug\netcoreapp3.1\ReverseLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\KalAcademy\DSA\LinkedLists\ReverseLinkedList\ReverseLinkedList\obj\Debug\netcoreapp3.1\ReverseLinkedList.AssemblyInfoInputs.cache
+C:\KalAcademy\DSA\LinkedLists\ReverseLinkedList\ReverseLinkedList\obj\Debug\netcoreapp3.1\ReverseLinkedList.AssemblyInfo.cs
+C:\KalAcademy\DSA\LinkedLists\ReverseLinkedList\ReverseLinkedList\obj\Debug\netcoreapp3.1\ReverseLinkedList.csproj.CoreCompileInputs.cache
+C:\KalAcademy\DSA\LinkedLists\ReverseLinkedList\ReverseLinkedList\obj\Debug\netcoreapp3.1\ReverseLinkedList.dll
+C:\KalAcademy\DSA\LinkedLists\ReverseLinkedList\ReverseLinkedList\obj\Debug\netcoreapp3.1\ReverseLinkedList.pdb
+C:\KalAcademy\DSA\LinkedLists\ReverseLinkedList\ReverseLinkedList\obj\Debug\netcoreapp3.1\ReverseLinkedList.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\KalAcademy\DSA\LinkedLists\K from Last_Linkedlist\K from Last_Linkedlist\bin\Debug\netcoreapp3.1\K from Last_Linkedlist.exe
+C:\KalAcademy\DSA\LinkedLists\K from Last_Linkedlist\K from Last_Linkedlist\bin\Debug\netcoreapp3.1\K from Last_Linkedlist.deps.json
+C:\KalAcademy\DSA\LinkedLists\K from Last_Linkedlist\K from Last_Linkedlist\bin\Debug\netcoreapp3.1\K from Last_Linkedlist.runtimeconfig.json
+C:\KalAcademy\DSA\LinkedLists\K from Last_Linkedlist\K from Last_Linkedlist\bin\Debug\netcoreapp3.1\K from Last_Linkedlist.runtimeconfig.dev.json
+C:\KalAcademy\DSA\LinkedLists\K from Last_Linkedlist\K from Last_Linkedlist\bin\Debug\netcoreapp3.1\K from Last_Linkedlist.dll
+C:\KalAcademy\DSA\LinkedLists\K from Last_Linkedlist\K from Last_Linkedlist\bin\Debug\netcoreapp3.1\K from Last_Linkedlist.pdb
+C:\KalAcademy\DSA\LinkedLists\K from Last_Linkedlist\K from Last_Linkedlist\obj\Debug\netcoreapp3.1\K from Last_Linkedlist.csproj.AssemblyReference.cache
+C:\KalAcademy\DSA\LinkedLists\K from Last_Linkedlist\K from Last_Linkedlist\obj\Debug\netcoreapp3.1\K from Last_Linkedlist.GeneratedMSBuildEditorConfig.editorconfig
+C:\KalAcademy\DSA\LinkedLists\K from Last_Linkedlist\K from Last_Linkedlist\obj\Debug\netcoreapp3.1\K from Last_Linkedlist.AssemblyInfoInputs.cache
+C:\KalAcademy\DSA\LinkedLists\K from Last_Linkedlist\K from Last_Linkedlist\obj\Debug\netcoreapp3.1\K from Last_Linkedlist.AssemblyInfo.cs
+C:\KalAcademy\DSA\LinkedLists\K from Last_Linkedlist\K from Last_Linkedlist\obj\Debug\netcoreapp3.1\K from Last_Linkedlist.csproj.CoreCompileInputs.cache
+C:\KalAcademy\DSA\LinkedLists\K from Last_Linkedlist\K from Last_Linkedlist\obj\Debug\netcoreapp3.1\K from Last_Linkedlist.dll
+C:\KalAcademy\DSA\LinkedLists\K from Last_Linkedlist\K from Last_Linkedlist\obj\Debug\netcoreapp3.1\K from Last_Linkedlist.pdb
+C:\KalAcademy\DSA\LinkedLists\K from Last_Linkedlist\K from Last_Linkedlist\obj\Debug\netcoreapp3.1\K from Last_Linkedlist.genruntimeconfig.cache

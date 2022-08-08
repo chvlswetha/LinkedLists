@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "RandomPointer_Linkedlist/1.0.0": {
+        "runtime": {
+          "RandomPointer_Linkedlist.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RandomPointer_Linkedlist/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
